@@ -16,11 +16,11 @@ This project implements a real-time hand gesture recognition system in Python us
 # Install dependencies using:
     pip install opencv-python mediapipe pyautogui comtypes protobuf
 # How It Works
-  *Captures video continuously from your webcam.
-  *Uses MediaPipe Hands to detect and track hand landmarks.
-  *Converts detected finger positions into gesture encodings.
-  *Maps recognized gestures to mouse controls such as moving the cursor, clicking, and dragging.
-  *Differentiates between major and minor hands for more robust gesture recognition.
+  * Captures video continuously from your webcam.
+  * Uses MediaPipe Hands to detect and track hand landmarks.
+  * Converts detected finger positions into gesture encodings.
+  * Maps recognized gestures to mouse controls such as moving the cursor, clicking, and dragging.
+  * Differentiates between major and minor hands for more robust gesture recognition.
 
 # Usage
     Run the script by executing:
