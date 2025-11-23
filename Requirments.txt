@@ -1,0 +1,9 @@
+# Developed and tested with Python 3.10.6
+opencv-python
+mediapipe
+pyautogui
+comtypes
+protobuf
+
+# Install dependencies using:
+ pip install -r requirements.txt
